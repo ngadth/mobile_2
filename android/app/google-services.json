@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628422815979",
+    "project_id": "call-video-native",
+    "storage_bucket": "call-video-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628422815979:android:75977aa2d378cce14eceae",
+        "android_client_info": {
+          "package_name": "com.ringer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDW4TG4dhhmmJO1yJmuOkAQ9EEHz9N9ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
